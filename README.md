@@ -13,23 +13,22 @@
 ## Work Experience
 
 **Researcher @ Court of Accounts of Santa Catarina  (TCE/SC) *(February 2024 – November 2024)***
-Evaluation of telemedicine public policy in Santa Catarina. Tasks included processing DATASUS and primary data and applying econometric techniques for impact assessment. 
-
+- Evaluation of telemedicine public policy in Santa Catarina. Tasks included processing DATASUS and primary data and applying econometric techniques for impact assessment. 
 - Link do relatório
 - Mídia
 
 **Data Analyst @ TD Business *(September 2023 – January 2024)*** 
--	Manipulating data from government datasets (e.g., DATASUS, RAIS, CAGED), preparing reports, and creating dashboards in Power BI. 
+- Manipulating data from government datasets (e.g., DATASUS, RAIS, CAGED), preparing reports, and creating dashboards in Power BI. 
 
 **Data Analyst @ Foundation for Socioeconomic Studies and Research (FEPESE) *(July 2021 - July 2022)*** 
--	Supporting decision-making for municipalities through FEPESE's "Intelligence Environment" by collecting microdata, cleaning, applying web scraping and processing extracted data, creating interactive dashboards. 
+- Supporting decision-making for municipalities through FEPESE's "Intelligence Environment" by collecting microdata, cleaning, applying web scraping and processing extracted data, creating interactive dashboards. 
 
 **Data Analyst @ Célula GIS *(July 2020 - June 2021)*** 
--	Manipulating data from the regulatory stock management project for federal environmental licensing, supporting decision-making for government agencies such as IBAMA and FUNAI. Data extraction via web scraping, applying Natural Language Processing techniques, and implementing Machine Learning models. 
+- Manipulating data from the regulatory stock management project for federal environmental licensing, supporting decision-making for government agencies such as IBAMA and FUNAI. Data extraction via web scraping, applying Natural Language Processing techniques, and implementing Machine Learning models. 
 
 
 ### Consultants 
 **State University of Santa Catarina (UDESC)** *(July 2023 – December 2023)* 
--	Supporting scholars, databases creation, and guiding statistical analyses for academic research activities within the applied economics group. 
+- Supporting scholars, databases creation, and guiding statistical analyses for academic research activities within the applied economics group. 
 
 ### Projects
