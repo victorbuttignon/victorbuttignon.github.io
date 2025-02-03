@@ -1,5 +1,5 @@
-title: Victor Buttignon 2
+title: Victor Buttignon 
 logo: /assets/img/headshot_profile.jpg
-description: Este é um teste 
+# description:  Pode colocar um texto embaixo da imagem
 # show_downloads:
 theme: jekyll-theme-minimal
