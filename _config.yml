@@ -3,3 +3,4 @@ logo: /assets/img/headshot_profile.jpg
 # description:  Pode colocar um texto embaixo da imagem
 # show_downloads:
 theme: jekyll-theme-minimal
+classes: wide
