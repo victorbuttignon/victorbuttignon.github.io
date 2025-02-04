@@ -31,7 +31,7 @@
 - Data extraction via web scraping, applying Natural Language Processing techniques, and implementing Machine Learning models. 
 
 
-### Consultants 
+## Consultants 
 **State University of Santa Catarina (UDESC)** *(July 2023 – December 2023)* 
 - Supporting scholars, databases creation, and guiding statistical analyses for academic research activities within the applied economics group. 
 
@@ -41,7 +41,7 @@
 
 **Arandu** *(May 2024 - September 2024)*
 
+## Working papers & Projects 
 
-
-## Publications 
+## Publications & Conferences 
 
