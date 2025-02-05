@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, R, SQL, Stata, Impact Evaluation, PowerBi
+#### Technical Skills: Python, R, SQL, Stata, Statistics, Impact Evaluation, PowerBi
 
 ## Education
 
