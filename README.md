@@ -17,7 +17,7 @@
 - Impact Evaluation of telheatlh public policy in Santa Catarina.
 - Process DATASUS and primary data .
 - Apply econometric techniques for impact assessment. 
-- Telehealth Report[soon]
+- Telehealth Report [soon]
 - On midia:
     - [NSC](https://www.nsctotal.com.br/colunistas/dagmara-spautz/em-90-das-cidades-de-sc-ha-so-um-medico-para-cada-mil-habitantes)
     - [TCE/SC](https://www.tcesc.tc.br/estudo-feito-pela-ufsc-em-parceria-com-o-tcesc-aponta-que-90-dos-municipios-catarinenses-tem-menos)
@@ -34,8 +34,10 @@
 - Create dashboards in PowerBI. 
 
 **Data Analyst @ Célula GIS *(July 2020 - June 2021)*** 
-- Manipulating data from the regulatory stock management project for federal environmental licensing, supporting decision-making for government agencies such as IBAMA and FUNAI. 
-- Data extraction via web scraping, applying Natural Language Processing techniques, and implementing Machine Learning models. 
+- ETL on text data from the regulatory stock management project for federal environmental licensing.
+- Manipulating data supporting decision-making for government agencies such as IBAMA and FUNAI. 
+- Data extraction via web scraping
+- Apply Natural Language Processing techniques implementing Machine Learning models for clusterization. 
 
 
 ## Consultants 
