@@ -14,14 +14,18 @@
 ## Work Experience
 
 **Researcher @ Court of Accounts of Santa Catarina  (TCE/SC) *(February 2024 – November 2024)***
-- Evaluation of telemedicine public policy in Santa Catarina. Tasks included processing DATASUS and primary data and applying econometric techniques for impact assessment. 
+- Impact Evaluation of telheatlh public policy in Santa Catarina.
+- Process DATASUS and primary data .
+- Apply econometric techniques for impact assessment. 
 - [Telehealth Report]
-- Notícias na mídia:
+- News:
     - [NSC](https://www.nsctotal.com.br/colunistas/dagmara-spautz/em-90-das-cidades-de-sc-ha-so-um-medico-para-cada-mil-habitantes)
     - [TCE/SC](https://www.tcesc.tc.br/estudo-feito-pela-ufsc-em-parceria-com-o-tcesc-aponta-que-90-dos-municipios-catarinenses-tem-menos)
 
 **Data Analyst @ TD Business *(September 2023 – January 2024)*** 
-- Manipulating data from government datasets (e.g., DATASUS, RAIS, CAGED), preparing reports, and creating dashboards in PowerBI. 
+- Manipulate data from government datasets (e.g., DATASUS, RAIS, CAGED)
+- Prepare reports
+- Create dashboards in PowerBI. 
 
 **Data Analyst @ Foundation for Socioeconomic Studies and Research (FEPESE) *(July 2021 - July 2022)*** 
 - Supporting decision-making for municipalities through FEPESE's "Intelligence Environment" by collecting microdata, cleaning, applying web scraping and processing extracted data, creating interactive dashboards. 
