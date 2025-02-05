@@ -13,27 +13,27 @@
 
 ## Work Experience
 
-**Researcher @ Court of Accounts of Santa Catarina  (TCE/SC) *(February 2024 – November 2024)***
+**Researcher @ Court of Accounts of Santa Catarina  (TCE/SC)** *(February 2024 – November 2024)*
 - Impact Evaluation of telheatlh public policy in Santa Catarina.
 - Process DATASUS and primary data .
 - Apply econometric techniques for impact assessment. 
-- Telehealth Report [soon]
+- Telehealth Report [Soon]
 - On midia:
     - [NSC](https://www.nsctotal.com.br/colunistas/dagmara-spautz/em-90-das-cidades-de-sc-ha-so-um-medico-para-cada-mil-habitantes)
     - [TCE/SC](https://www.tcesc.tc.br/estudo-feito-pela-ufsc-em-parceria-com-o-tcesc-aponta-que-90-dos-municipios-catarinenses-tem-menos)
 
-**Data Analyst @ TD Business *(September 2023 – January 2024)*** 
+**Data Analyst @ TD Business** *(September 2023 – January 2024)*
 - Manipulate data from government datasets (e.g., DATASUS, RAIS, CAGED).
 - Prepare reports.
 - Create dashboards in PowerBI. 
 
-**Data Analyst @ Foundation for Socioeconomic Studies and Research (FEPESE) *(July 2021 - July 2022)*** 
+**Data Analyst @ Foundation for Socioeconomic Studies and Research (FEPESE)** *(July 2021 - July 2022)*
 - Supporting decision-making for municipalities through FEPESE's "Intelligence Environment".
 - Collect data from government datasets (e.g., DATASUS, RAIS, CAGED).
 - Apply web scraping and processing extracted data.
 - Create dashboards in PowerBI. 
 
-**Data Analyst @ Célula GIS *(July 2020 - June 2021)*** 
+**Data Analyst @ Célula GIS** *(July 2020 - June 2021)*
 - ETL on text data from the regulatory stock management project for federal environmental licensing.
 - Manipulating data supporting decision-making for government agencies such as IBAMA and FUNAI. 
 - Data extraction via web scraping
@@ -58,10 +58,8 @@
 
 ## Working papers & Projects 
 - [ANPEC and CAPES rankings predict salary and publication](https://www.anpec.org.br/encontro/2024/submissao/files_I/i13-f698ea6df50fa56ea25c3454bb109c3b.pdf)
-        - Analyzed data from 888 ANPEC graduates (RAIS & Lattes) and found that ANPEC scores strongly predict salary (+25% per SD, avg. R$ 20,000/month), while CAPES rankings are a better predictor of research output
-- [Leveraging Brazilian Administrative Data to Examine the Impact of Unobservable Factors on Earnings]()
-        - Leveraged Brazilian administrative data (RAIS & ANPEC) to analyze unobservable factors in wage differentials. Findings show public education’s earnings premium disappears when accounting for unobserved traits, suggesting private institutions complement public ones in human capital formation.
-- [Administrativa and Prisional Data]
+- [Leveraging Brazilian Administrative Data to Examine the Impact of Unobservable Factors on Earnings](https://digitalcommons.bryant.edu/cgi/viewcontent.cgi?article=1005&context=me_jou)
+- Administrativa and Prisional Data [Soon]
 
 
 ## Publications & Conferences 
@@ -69,3 +67,4 @@
 2. Buttignon, V. G. A., Lourenço, F. C. P., & Tebaldi, E. (2023). 49º Eastern Economics Association Conferece, Leveraging Brazilian Administrative Data to Examine the Impact of Unobservable Factors on Earnings.
 3. Ribeiro, F. G., Rostirolla, C. C., Dietrich, T. P., & Buttignon, V. G. A. (2021). Impact Evaluation of Sunergistics Effects Between the Bolsa Família and the Primeira Infância Melhor Programs in Rio Grande do Sul.
 4. Buttignon, V., Discussion of "Pandemic and economy: a diagnosis of contemporary Brazil", (2021), 24º ANPEC Sul .
+5. Isolan, G., Buttignon, V. et. al, (2021), Telemedicina e teleneurologia
