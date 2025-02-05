@@ -42,15 +42,27 @@
 
 ## Consultants 
 **State University of Santa Catarina (UDESC)** *(July 2023 – December 2023)* 
-- Supporting scholars, databases creation, and guiding statistical analyses for academic research activities within the applied economics group. 
+- Support scholars in their academic researchs
+- Help with databases creation and statistical analyses
 
 **Tomara! Educação e Cultura** *(July 2024 - Now)*
+- Data analynsis from CENSO Escolar (Educational database) for terciary organizatins
 
 **Ambientare** *(August 2024 - Noevembre 2024)*
+- Data analysis from Belo Monte usin in Brazil
+- 
 
 **Arandu** *(May 2024 - September 2024)*
+- Data analynsis from CENSO Escolar (Educational database)
+- Apply statistical inferences for impact evaluation
 
 ## Working papers & Projects 
+- [ANPEC and CAPES rankings predict salary and publication](https://www.anpec.org.br/encontro/2024/submissao/files_I/i13-f698ea6df50fa56ea25c3454bb109c3b.pdf)
+        - Analyzed data from 888 ANPEC graduates (RAIS & Lattes) and found that ANPEC scores strongly predict salary (+25% per SD, avg. R$ 20,000/month), while CAPES rankings are a better predictor of research output
+- [Leveraging Brazilian Administrative Data to Examine the Impact of Unobservable Factors on Earnings]()
+        - Leveraged Brazilian administrative data (RAIS & ANPEC) to analyze unobservable factors in wage differentials. Findings show public education’s earnings premium disappears when accounting for unobserved traits, suggesting private institutions complement public ones in human capital formation.
+- [Administrativa and Prisional Data]
+
 
 ## Publications & Conferences 
 1. Petterini, F., & Buttignon, V. (2024), 52º ANPEC Conference, ANPEC and CAPES rankings predict salary and publication.
