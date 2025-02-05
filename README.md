@@ -44,4 +44,7 @@
 ## Working papers & Projects 
 
 ## Publications & Conferences 
-
+1. Petterini, F., & Buttignon, V. (2024), 52º ANPEC Conference, ANPEC and CAPES rankings predict salary and publication.
+2. Buttignon, V. G. A., Lourenço, F. C. P., & Tebaldi, E. (2023). 49º Eastern Economics Association Conferece, Leveraging Brazilian Administrative Data to Examine the Impact of Unobservable Factors on Earnings.
+3. Ribeiro, F. G., Rostirolla, C. C., Dietrich, T. P., & Buttignon, V. G. A. (2021). Impact Evaluation of Sunergistics Effects Between the Bolsa Família and the Primeira Infância Melhor Programs in Rio Grande do Sul.
+4. Buttignon, V., Discussion of "Pandemic and economy: a diagnosis of contemporary Brazil", (2021), ANPEC Sul.
