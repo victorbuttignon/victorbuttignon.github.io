@@ -15,7 +15,7 @@
 
 **Researcher @ Court of Accounts of Santa Catarina  (TCE/SC) *(February 2024 – November 2024)***
 - Evaluation of telemedicine public policy in Santa Catarina. Tasks included processing DATASUS and primary data and applying econometric techniques for impact assessment. 
-- Link do relatório (Em Breve)
+- [Telehealth Report]
 - Notícias na mídia:
     - [NSC](https://www.nsctotal.com.br/colunistas/dagmara-spautz/em-90-das-cidades-de-sc-ha-so-um-medico-para-cada-mil-habitantes)
     - [TCE/SC](https://www.tcesc.tc.br/estudo-feito-pela-ufsc-em-parceria-com-o-tcesc-aponta-que-90-dos-municipios-catarinenses-tem-menos)
