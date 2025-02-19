@@ -48,7 +48,7 @@
 **Tomara! Educação e Cultura** *(July 2024 - Now)*
 - Data analynsis from CENSO Escolar (Educational database) for terciary organizatins
 
-**Ambientare** *(August 2024 - Noevembre 2024)*
+**Ambientare** *(August 2024 - Noevember 2024)*
 - Data analysis of Belo Monte hydroelectric plant in Brazil
 - Propose a new data structure that helps in the analysis of Norte Energia’s big data
 - 
