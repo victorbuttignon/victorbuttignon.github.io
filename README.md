@@ -50,8 +50,7 @@
 
 **Ambientare** *(August 2024 - Noevember 2024)*
 - Data analysis of Belo Monte hydroelectric plant in Brazil
-- Propose a new data structure that helps in the analysis of Norte Energia’s big data
-- 
+- Propose a new data structure that helps in the analysis of Norte Energia big data
 
 **Arandu** *(May 2024 - September 2024)*
 - Data analynsis from CENSO Escolar (Educational database)
