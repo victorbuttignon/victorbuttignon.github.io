@@ -49,7 +49,8 @@
 - Data analynsis from CENSO Escolar (Educational database) for terciary organizatins
 
 **Ambientare** *(August 2024 - Noevembre 2024)*
-- Data analysis from Belo Monte usin in Brazil
+- Data analysis of Belo Monte hydroelectric plant in Brazil
+- Propose a new data structure that helps in the analysis of Norte Energia’s big data
 - 
 
 **Arandu** *(May 2024 - September 2024)*
