@@ -41,7 +41,7 @@
 
 
 ## Consultants 
-**State University of Santa Catarina (UDESC)** *(July 2023 – December 2023)* 
+**State University of Santa Catarina (UDESC)**  <> *(July 2023 – December 2023)* 
 - Support scholars in their academic researchs
 - Help with databases creation and statistical analyses
 
