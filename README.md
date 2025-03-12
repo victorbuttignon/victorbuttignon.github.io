@@ -27,13 +27,13 @@
 - Prepare reports.
 - Create dashboards in PowerBI. 
 
-**Data Analyst @ Foundation for Socioeconomic Studies and Research (FEPESE)** *(July 2021 - July 2022)*
+**Data Scientist @ Foundation for Socioeconomic Studies and Research (FEPESE)** *(July 2021 - July 2022)*
 - Supporting decision-making for municipalities through FEPESE's "Intelligence Environment".
 - Collect data from government datasets (e.g., DATASUS, RAIS, CAGED).
 - Apply web scraping and processing extracted data.
 - Create dashboards in PowerBI. 
 
-**Data Analyst @ Célula GIS** *(July 2020 - June 2021)*
+**Data Scientist @ Célula GIS** *(July 2020 - June 2021)*
 - ETL on text data from the regulatory stock management project for federal environmental licensing.
 - Manipulating data supporting decision-making for government agencies such as IBAMA and FUNAI. 
 - Data extraction via web scraping
@@ -50,7 +50,7 @@
 - Data analysis from organization`s primary data
 
 **Ambientare** <!--*(August 2024 - Noevember 2024)* -->
-- Data analysis of Belo Monte hydroelectric plant in Brazil
+- Data science of Belo Monte hydroelectric plant in Brazil
 - Propose a new data structure that helps in the analysis of Norte Energia big data
 
 **Arandu** <!--*(May 2024 - September 2024)* -->
