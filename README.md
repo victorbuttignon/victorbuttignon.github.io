@@ -41,18 +41,19 @@
 
 
 ## Consultants 
-**State University of Santa Catarina (UDESC)**  <> *(July 2023 – December 2023)* 
+**State University of Santa Catarina (UDESC)**  <!--*(July 2023 – December 2023)* -->
 - Support scholars in their academic researchs
 - Help with databases creation and statistical analyses
 
-**Tomara! Educação e Cultura** *(July 2024 - Now)*
-- Data analynsis from CENSO Escolar (Educational database) for terciary organizatins
+**Tomara! Educação e Cultura** <!-- *(July 2024 - Now)* -->
+- Data analysis from CENSO Escolar (Educational database) for terciary organizations
+- Data analysis from organization`s primary data
 
-**Ambientare** *(August 2024 - Noevember 2024)*
+**Ambientare** <!--*(August 2024 - Noevember 2024)* -->
 - Data analysis of Belo Monte hydroelectric plant in Brazil
 - Propose a new data structure that helps in the analysis of Norte Energia big data
 
-**Arandu** *(May 2024 - September 2024)*
+**Arandu** <!--*(May 2024 - September 2024)* -->
 - Data analynsis from CENSO Escolar (Educational database)
 - Apply statistical inferences for impact evaluation
 
